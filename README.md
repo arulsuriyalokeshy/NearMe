@@ -50,7 +50,8 @@ Execute the programs and publish them.
 <AREA shape="RECT" coords="492,154,540,190" href="https://www.saveetha.ac.in" title="Saveetha Engineering College">
 <AREA shape="RECT" coords="457,295,600,350" href="https://www.saveetha.com/" title="Saveetha Hospitel">
 <AREA shape="RECT" coords="149,370,315,400" href="https://padmavatiengineering.com/" title="Padmaavathi Engineering College">
-<AREA shape="RECT" coords="700,400,830,440" href="https://www.commonfloor.com/vijayshanthi-infiniti-chennai/povp-0spaby" title="Vijaya shanti Infinite">
+<AREA shape="RECT" coords="700,400,830,440" href="https://www.commonfloor.com/vijayshanthi-infiniti-chennai/povp-0spaby"
+title="Vijaya shanti Infinite">
 <AREA shape="RECT" coords="567,8,700,50" href="https://www.saveetha.com/" title="Saveetha School of Engineering">    
 <AREA shape="RECT" coords="128,300,210,340" href="http://www.imoss.co.kr/kor/main/" title="KOC SOUND SYSTEM">  
     </MAP>
