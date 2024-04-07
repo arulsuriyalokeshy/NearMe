@@ -62,7 +62,12 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![output].(/)
+![alt text](map.png)
+![alt text](saveetha.png)
+![alt text](<Screenshot 2024-04-07 231844.png>)
+![alt text](sound.png)
+![alt text](sss.png)
+
 
 
 
